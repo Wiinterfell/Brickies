@@ -498,13 +498,7 @@ strong {
 .video-content iframe {
 border: 0 !important;
 }
-iframe {
-	 width:450px;
-	 height:400px;
-	  -webkitallowfullscreen : width:450px; height:400px;
-	  -mozallowfullscreen : width:450px; height:400px;
-	  -allowfullscreen : width:450px; height:400px;
-}
+
 
 /* ==================== 9.2 SERVICES SECTION - SLIDER ==================== */
 
@@ -615,7 +609,7 @@ border: 0 !important;
 .counter-container {
 	display: table;
 	margin: 0 auto;
-	margin-top: 200px;
+	margin-top: 20px;
 	background: rgba(54, 25, 25, .8);
 }
 
@@ -1538,10 +1532,7 @@ body.mobile .animated {
 	.big-maps {
 		 padding:100px;
 	}
-	iframe {
-		 width:350px;
-		 height:300px;
-	}
+
 	#map1 {
 		 width:350px;
 		 height:300px;
@@ -1568,10 +1559,7 @@ body.mobile .animated {
 	.big-maps ul {
 		 padding-left:20px;
 	}
-	iframe {
-		 width:250px;
-		 height:200px;
-	}
+
 	#map1 {
 		 width:250px;
 		 height:200px;
