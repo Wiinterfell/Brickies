@@ -37,7 +37,7 @@
 		======================================*/
 
 		//Image Background
-		$(".image-background").backstretch("images/brick.jpg");
+		$(".image-background").backstretch("images/original.gif");
 
 
 
