@@ -38,6 +38,7 @@
 
 ========================================================== */
 
+ @font-face { font-family: harry-potter; src: url('./../fonts/harry.TTF'); } 
 
 
 /* ==================== 1.0 RESET STYLES ==================== */
@@ -47,7 +48,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: harry-potter;
 	vertical-align: baseline;
 }
 
@@ -88,7 +89,7 @@ textarea {
 	font-size: 16px;
 	font-weight: 300;
 	font-style: normal;
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 }
 
 /* ==================== 4.0 TYPOGRAOHY ==================== */
@@ -101,35 +102,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 62px;
 	position: relative;
 	margin-bottom: 0px;
 }
 
 h2 {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 48px;
 	position: relative;
 }
 
 h3 {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 30px;
 }
 
 h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 25px;
 }
 
 h5 {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 20px;
 }
 
 h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 18px;
 }
 
@@ -138,7 +139,7 @@ p {
 }
 
 p.lead {
-	font-family: 'Raleway', sans-serif;
+	font-family: harry-potter;
 	font-size: 21px;
 	padding: 0;
 	font-weight: 400;
@@ -382,7 +383,7 @@ strong {
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: harry-potter;
   font-weight: 400;
 }
 
@@ -627,17 +628,16 @@ border: 0 !important;
 #clock-countdown .number {
 	font-size: 130px;
 	text-align: center;
-	font-family: 'Monteserrat', sans-serif;
-	font-weight: 700;
+	font-family: harry-potter;
 	line-height: 1;
 	margin-bottom: 10px;
 }
 
 #clock-countdown span {
 	display: block;
-	font-size: 21px;
+	font-size: 31px;
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: harry-potter;
 	font-weight: 400;
 	padding-top: 10px;
 	position: relative;
